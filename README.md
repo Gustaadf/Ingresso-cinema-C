@@ -1,6 +1,12 @@
-# Codigo para Ingresso de Cinema
+ Codigo para Ingresso de Cinema
 Esse codigo fiz durante o meu curto período da faculdade de Engenharia da Computação e la aprendi a linguagem C.
 
 Basicamente seria o codigo para um Totem de ingresso do cinema.
 
 O usuário escolhe um filme, informa a quantidade de ingressos e o sistema calcula o valor total, mostrando um comprovante.
+
+Utilizei:
+if (para declarar um verdadeiro)
+Char (para imprimir caracteres)
+Int (para declarar uma variavel)
+Float (para armazenar dados)
