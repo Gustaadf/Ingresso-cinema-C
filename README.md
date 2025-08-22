@@ -1,4 +1,4 @@
- Codigo para Ingresso de Cinema
+# Codigo para Ingresso de Cinema
 Esse codigo fiz durante o meu curto período da faculdade de Engenharia da Computação e la aprendi a linguagem C.
 
 Basicamente seria o codigo para um Totem de ingresso do cinema.
